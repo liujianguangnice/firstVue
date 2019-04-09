@@ -1,5 +1,6 @@
 # firstvue
 > 如何使用
+
 1.构建自己的项目
 
 vue init webpack firstVue
